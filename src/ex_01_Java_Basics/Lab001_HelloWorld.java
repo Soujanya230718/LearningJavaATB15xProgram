@@ -8,5 +8,6 @@ public class Lab001_HelloWorld {
 
 
         System.out.println("Hello world");
+        System.out.println("ggfh");
     }
 }
