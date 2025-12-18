@@ -7,6 +7,10 @@ public class DivisionPro {
        // System.out.println(10/0);
         System.out.println(0/10);
         System.out.println(10/1000);
+        System.out.println("2+5");
+        System.out.println(2+5);
+        System.out.println(2*5);
+        System.out.println("2*5");
 
     }
 }
